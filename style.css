@@ -1,5 +1,8 @@
 body {
   margin: 0;
   color: black;
-  background: red;
+  background: rgb(244, 238, 238);
+}
+form {
+  background-color: green;
 }
